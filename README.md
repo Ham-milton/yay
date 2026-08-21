@@ -52,5 +52,5 @@ $\color{#}\small{\textsf{Block freely if uncomfortable.}}$ ㅤ
 
 #
 
-<br>[<sub>@ponytown-nominations</sub>](https://github.com/ponytown-nominations) [<sub>@pt-medals</sub>](https://github.com/pt-medals) [<sub>@pt-walk-of-fame</sub>](https://github.com/pt-walk-of-fame) [<sub>@ponyachievements](https://github.com/ponychievements)<br>
+<br>[<sub>@ponytown-nominations</sub>](https://github.com/ponytown-nominations) [<sub>@pt-medals</sub>](https://github.com/pt-medals) [<sub>@pt-walk-of-fame</sub>](https://github.com/pt-walk-of-fame) [<sub>@ponyachievements](https://github.com/ponychievements) [<sub>@pt-fashion</sub>](https://github.com/pt-fashion)<br>
  ㅤ 
